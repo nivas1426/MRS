@@ -1,0 +1,37 @@
+*Integration with Chatbot*:
+
+Prerequisites
+
+1.Telegram Account
+
+2.Python (version 3.6 or higher)
+
+3.telebot library (Python library for interacting with Telegram Bot API)
+
+Setup Instructions
+
+1.Create a Telegram Bot
+
+2.Open Telegram and search for BotFather.
+
+3.Type /start to initiate a conversation with BotFather.
+
+4.Type /newbot and follow the instructions to create a new bot.
+
+Note down the bot token provided by BotFather. This token is essential for authenticating requests to the Telegram Bot API. 
+
+Replace Telegram API token in this part of Chatbot(Telegram) code for integrating code with newly Created ChatBot:
+        
+        bot = telebot.TeleBot('YOUR_BOT_TOKEN')
+
+*Conclusion*:
+
+This document outlines the steps to integrate a Telegram bot using Python, enabling interaction with users for movie recommendations. Follow these guidelines to customize and enhance the bot's functionality based on your specific requirements.
+
+*References*:
+
+Telegram Bot API Documentation
+
+pyTelegramBotAPI Documentation
+
+
