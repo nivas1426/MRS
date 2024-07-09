@@ -50,21 +50,21 @@ Inputs received via a chat bot trigger various recommendation functions. The out
 
 Prerequisites
 
-1.Telegram Account
-
-2.Python (version 3.6 or higher)
-
-3.telebot library (Python library for interacting with Telegram Bot API)
+ 1.Telegram Account
+ 
+ 2.Python (version 3.6 or higher)
+ 
+ 3.telebot library (Python library for interacting with Telegram Bot API)
 
 Setup Instructions
 
-1.Create a Telegram Bot
-
-2.Open Telegram and search for BotFather.
-
-3.Type /start to initiate a conversation with BotFather.
-
-4.Type /newbot and follow the instructions to create a new bot.
+ 1.Create a Telegram Bot
+ 
+ 2.Open Telegram and search for BotFather.
+ 
+ 3.Type /start to initiate a conversation with BotFather.
+ 
+ 4.Type /newbot and follow the instructions to create a new bot.
 
 Note down the bot token provided by BotFather. This token is essential for authenticating requests to the Telegram Bot API. 
 
